@@ -4,105 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f19390b6ce96b0c5",
+        "id": "56fec8cb8cb70000",
         "type": "tabs",
         "children": [
           {
-            "id": "a3475126bc690dcf",
+            "id": "a772df7dc3e1addd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Appendix/Technologies/AWS Cost Management Services.md",
+                "file": "Appendix/Technologies/Storage/Services/Amazon Elastic Block Store (Amazon EBS).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AWS Cost Management Services"
-            }
-          },
-          {
-            "id": "d0cb4a22cc027c7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Appendix/Technologies/Application Integration/AWS Step Functions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AWS Step Functions"
-            }
-          },
-          {
-            "id": "b6f9e2e097466198",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Appendix/Technologies/Application Integration/Amazon Simple Queue Service (Amazon SQS).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Amazon Simple Queue Service (Amazon SQS)"
-            }
-          },
-          {
-            "id": "5e9e16b4539fcc53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Appendix/Technologies/Application Integration/Amazon Simple Notification Service (Amazon SNS).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Amazon Simple Notification Service (Amazon SNS)"
-            }
-          },
-          {
-            "id": "f0859835b5291907",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Appendix/Technologies/Application Integration/Amazon MQ.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Amazon MQ"
-            }
-          },
-          {
-            "id": "d55f4351a1457885",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Appendix/Technologies/Application Integration/Amazon EventBridge.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Amazon EventBridge"
-            }
-          },
-          {
-            "id": "5c014c1e303488fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Appendix/Technologies/Application Integration/AWS AppSync.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AWS AppSync"
+              "title": "Amazon Elastic Block Store (Amazon EBS)"
             }
           }
         ]
@@ -177,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Appendix/Technologies/AWS Cost Management Services.md",
+                "file": "Appendix/Technologies/Storage/Services/Amazon Elastic Block Store (Amazon EBS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AWS Cost Management Services"
+              "title": "Backlinks for Amazon Elastic Block Store (Amazon EBS)"
             }
           },
           {
@@ -196,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Appendix/Technologies/AWS Cost Management Services.md",
+                "file": "Appendix/Technologies/Storage/Services/Amazon Elastic Block Store (Amazon EBS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from AWS Cost Management Services"
+              "title": "Outgoing links from Amazon Elastic Block Store (Amazon EBS)"
             }
           },
           {
@@ -223,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Appendix/Technologies/AWS Cost Management Services.md"
+                "file": "Appendix/Technologies/Storage/Services/Amazon Elastic Block Store (Amazon EBS).md"
               },
               "icon": "lucide-list",
-              "title": "Outline of AWS Cost Management Services"
+              "title": "Outline of Amazon Elastic Block Store (Amazon EBS)"
             }
           }
         ]
@@ -246,38 +162,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a3475126bc690dcf",
+  "active": "32bbc43f786e9012",
   "lastOpenFiles": [
-    "Appendix/Technologies/Application Integration/Application Integration Services.md",
-    "Appendix/Technologies/Application Integration/Amazon AppFlow.md",
-    "Appendix/Technologies/Application Integration",
-    "Appendix/Technologies/Application Integration/AWS Step Functions.md",
-    "Appendix/Technologies/Application Integration/Amazon Simple Queue Service (Amazon SQS).md",
-    "Appendix/Technologies/Application Integration/Amazon Simple Notification Service (Amazon SNS).md",
-    "Appendix/Technologies/Application Integration/Amazon MQ.md",
-    "Appendix/Technologies/Application Integration/Amazon EventBridge.md",
-    "Appendix/Technologies/Application Integration/AWS AppSync.md",
-    "Appendix/Technologies/AWS Cost Management Services.md",
-    "Appendix/Technologies/Analytics/Analytics Services.md",
-    "Appendix/Technologies/Analytics/Amazon Athena.md",
-    "Appendix/Technologies/Analytics",
-    "Appendix/Technologies/Analytics/Amazon Redshift.md",
-    "Appendix/Technologies/Analytics/Amazon QuickSight.md",
-    "Appendix/Technologies/Analytics/Amazon OpenSearch Service.md",
-    "Appendix/Technologies/Analytics/Amazon Managed Streaming for Apache Kafka (Amazon MSK).md",
-    "Appendix/Technologies/Analytics/AWS Lake Formation.md",
-    "Appendix/Technologies/Analytics/Amazon Kinesis.md",
-    "Appendix/Technologies/Analytics/AWS Glue.md",
-    "Appendix/Technologies/Analytics/Amazon EMR.md",
-    "Appendix/Technologies/Analytics/AWS Data Pipeline.md",
-    "Appendix/Technologies/Analytics/AWS Data Exchange.md",
-    "Out-of-scope AWS services and features.md",
-    "Appendix/Appendix.md",
-    "Appendix/Concepts/Management and governance.md",
-    "Welcome.md",
-    "Appendix/Technologies",
-    "Appendix",
-    "Untitled.canvas",
-    "Appendix/Concepts"
+    "Appendix/Technologies/Storage/Storage Services.md",
+    "Appendix/Technologies/Storage/Services/Amazon Elastic Block Store (Amazon EBS).md",
+    "Appendix/Technologies/Storage/Services/Amazon S3.md",
+    "Appendix/Technologies/Storage/Services/Amazon S3 Glacier.md",
+    "Appendix/Technologies/Storage/Services/AWS Storage Gateway.md",
+    "Appendix/Technologies/Storage/Services/Amazon FSx (for all types).md",
+    "Appendix/Technologies/Storage/Services/Amazon Elastic File System (Amazon EFS).md",
+    "Appendix/Technologies/Storage/Services/AWS Backup.md",
+    "Appendix/Technologies/Serverless/Serverless Services.md",
+    "Appendix/Technologies/Serverless/Services/AWS Fargate.md",
+    "Appendix/Technologies/Serverless/Services/AWS Lambda.md",
+    "Appendix/Technologies/Application Integration/Services/AWS AppSync.md",
+    "Appendix/Technologies/Security, Identity, and Compliance/Security, Identity, and Compliance Services.md",
+    "Appendix/Technologies/Security, Identity, and Compliance/Services/Amazon Cognito.md",
+    "Appendix/Technologies/Security, Identity, and Compliance/Services/AWS Artifact.md",
+    "Appendix/Technologies/Security, Identity, and Compliance/Services/AWS WAF.md",
+    "Appendix/Technologies/Security, Identity, and Compliance/Services/AWS Shield.md",
+    "Appendix/Technologies/Security, Identity, and Compliance/Services/AWS Security Hub.md",
+    "Appendix/Technologies/Security, Identity, and Compliance/Services/AWS Secrets Manager.md",
+    "Appendix/Technologies/Security, Identity, and Compliance/Services/AWS Resource Access Manager (AWS RAM).md",
+    "Appendix/Technologies/Security, Identity, and Compliance/Services/AWS Network Firewall.md",
+    "Appendix/Technologies/Security, Identity, and Compliance/Services/Amazon Macie.md",
+    "Appendix/Technologies/Security, Identity, and Compliance/Services/AWS Key Management Service (AWS KMS).md",
+    "Appendix/Technologies/Security, Identity, and Compliance/Services/Amazon Inspector.md",
+    "Appendix/Technologies/Security, Identity, and Compliance/Services/AWS Identity and Access Management (IAM).md",
+    "Appendix/Technologies/Security, Identity, and Compliance/Services/AWS IAM Identity Center (AWS Single Sign-On).md",
+    "Appendix/Technologies/Storage/Services",
+    "Appendix/Technologies/Serverless/Services",
+    "Appendix/Technologies/Security, Identity, and Compliance/Services",
+    "Appendix/Technologies/Storage",
+    "Appendix/Technologies/Serverless",
+    "Appendix/Technologies/Security, Identity, and Compliance",
+    "Appendix/Technologies/Networking and Content Delivery/Services",
+    "Appendix/Technologies/Migration and Transfer/Services",
+    "Appendix/Technologies/Media/Services",
+    "Appendix/Technologies/Management and Governance/Services",
+    "Untitled.canvas"
   ]
 }
