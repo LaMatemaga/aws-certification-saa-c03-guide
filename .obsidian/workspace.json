@@ -10,15 +10,13 @@
           {
             "id": "a772df7dc3e1addd",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Appendix/Technologies/Storage/Services/Amazon Elastic Block Store (Amazon EBS).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Amazon Elastic Block Store (Amazon EBS)"
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -93,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Appendix/Technologies/Storage/Services/Amazon Elastic Block Store (Amazon EBS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Amazon Elastic Block Store (Amazon EBS)"
+              "title": "Backlinks"
             }
           },
           {
@@ -112,12 +109,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Appendix/Technologies/Storage/Services/Amazon Elastic Block Store (Amazon EBS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Amazon Elastic Block Store (Amazon EBS)"
+              "title": "Outgoing links"
             }
           },
           {
@@ -138,11 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Appendix/Technologies/Storage/Services/Amazon Elastic Block Store (Amazon EBS).md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Amazon Elastic Block Store (Amazon EBS)"
+              "title": "Outline"
             }
           }
         ]
@@ -162,10 +156,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "32bbc43f786e9012",
+  "active": "a772df7dc3e1addd",
   "lastOpenFiles": [
-    "Appendix/Technologies/Storage/Storage Services.md",
     "Appendix/Technologies/Storage/Services/Amazon Elastic Block Store (Amazon EBS).md",
+    "Appendix/Technologies/Storage/Storage Services.md",
     "Appendix/Technologies/Storage/Services/Amazon S3.md",
     "Appendix/Technologies/Storage/Services/Amazon S3 Glacier.md",
     "Appendix/Technologies/Storage/Services/AWS Storage Gateway.md",
