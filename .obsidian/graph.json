@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -8,44 +8,51 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "[\"group\":concept]",
+      "query": "[\"group\":appendix]",
       "color": {
         "a": 1,
-        "rgb": 16657072
-      }
-    },
-    {
-      "query": "[\"group\":technology]",
-      "color": {
-        "a": 1,
-        "rgb": 7230176
+        "rgb": 15269749
       }
     },
     {
       "query": "[\"group\":guide]",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 5431401
       }
     },
     {
-      "query": "[\"group\":out-of-scope]",
+      "query": "[\"group\":technology]",
       "color": {
         "a": 1,
-        "rgb": 1644825
+        "rgb": 10506976
+      }
+    },
+    {
+      "query": "[\"group\":concept]",
+      "color": {
+        "a": 1,
+        "rgb": 14701221
+      }
+    },
+    {
+      "query": "[\"group\":notes]",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
       }
     }
   ],
-  "collapse-display": false,
-  "showArrow": true,
+  "collapse-display": true,
+  "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 1,
-  "repelStrength": 20,
+  "centerStrength": 0,
+  "repelStrength": 11.1458333333333,
   "linkStrength": 1,
-  "linkDistance": 30,
-  "scale": 0.18462326225858303,
-  "close": false
+  "linkDistance": 99,
+  "scale": 0.18462326225858436,
+  "close": true
 }

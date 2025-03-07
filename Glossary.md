@@ -1,0 +1,17 @@
+---
+group:
+  - appendix
+---
+- [[Compute]]
+- [[Cost management]]
+- [[Database]]
+- [[Disaster recovery]]
+- [[High performance]]
+- [[Management and governance]]
+- [[Microservices and component delivery]]
+- [[Migration and data transfer]]
+- [[Networking, connectivity, and content delivery]]
+- [[Resiliency]]
+- [[Security]]
+- [[Serverless and event-driven design principles]]
+- [[Storage]]

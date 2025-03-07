@@ -4,65 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "56fec8cb8cb70000",
+        "id": "b6f9b9f7badaefec",
         "type": "tabs",
         "children": [
           {
-            "id": "a772df7dc3e1addd",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "ad1d0a9cbb212763",
+            "id": "1077448063d54bb5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Appendix/Appendix.md",
+                "file": "Z. Appendix/Concepts/Compute.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Appendix"
-            }
-          },
-          {
-            "id": "53c6f6fbcf250013",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS Certified Solutions Architect - Associate (SAA-C03) Exam Guide.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AWS Certified Solutions Architect - Associate (SAA-C03) Exam Guide"
-            }
-          },
-          {
-            "id": "11666aa2d917de70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS Certified Solutions Architect - Associate (SAA-C03) Exam Guide.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AWS Certified Solutions Architect - Associate (SAA-C03) Exam Guide"
+              "title": "Compute"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,44 +163,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53c6f6fbcf250013",
+  "active": "1077448063d54bb5",
   "lastOpenFiles": [
+    "Semblanza.md",
+    "Z. Appendix/Concepts/Compute.md",
     "Markdown.md",
     "AWS Certified Solutions Architect - Associate (SAA-C03) Exam Guide.md",
-    "Appendix/Appendix.md",
-    "Appendix/Technologies/Storage/Services/Amazon Elastic Block Store (Amazon EBS).md",
-    "Appendix/Technologies/Storage/Storage Services.md",
-    "Appendix/Technologies/Storage/Services/Amazon S3.md",
-    "Appendix/Technologies/Storage/Services/Amazon S3 Glacier.md",
-    "Appendix/Technologies/Storage/Services/AWS Storage Gateway.md",
-    "Appendix/Technologies/Storage/Services/Amazon FSx (for all types).md",
-    "Appendix/Technologies/Storage/Services/Amazon Elastic File System (Amazon EFS).md",
-    "Appendix/Technologies/Storage/Services/AWS Backup.md",
-    "Appendix/Technologies/Serverless/Serverless Services.md",
-    "Appendix/Technologies/Serverless/Services/AWS Fargate.md",
-    "Appendix/Technologies/Serverless/Services/AWS Lambda.md",
-    "Appendix/Technologies/Application Integration/Services/AWS AppSync.md",
-    "Appendix/Technologies/Security, Identity, and Compliance/Security, Identity, and Compliance Services.md",
-    "Appendix/Technologies/Security, Identity, and Compliance/Services/Amazon Cognito.md",
-    "Appendix/Technologies/Security, Identity, and Compliance/Services/AWS Artifact.md",
-    "Appendix/Technologies/Security, Identity, and Compliance/Services/AWS WAF.md",
-    "Appendix/Technologies/Security, Identity, and Compliance/Services/AWS Shield.md",
-    "Appendix/Technologies/Security, Identity, and Compliance/Services/AWS Security Hub.md",
-    "Appendix/Technologies/Security, Identity, and Compliance/Services/AWS Secrets Manager.md",
-    "Appendix/Technologies/Security, Identity, and Compliance/Services/AWS Resource Access Manager (AWS RAM).md",
-    "Appendix/Technologies/Security, Identity, and Compliance/Services/AWS Network Firewall.md",
-    "Appendix/Technologies/Security, Identity, and Compliance/Services/Amazon Macie.md",
-    "Appendix/Technologies/Security, Identity, and Compliance/Services/AWS Key Management Service (AWS KMS).md",
-    "Appendix/Technologies/Storage/Services",
-    "Appendix/Technologies/Serverless/Services",
-    "Appendix/Technologies/Security, Identity, and Compliance/Services",
-    "Appendix/Technologies/Storage",
-    "Appendix/Technologies/Serverless",
-    "Appendix/Technologies/Security, Identity, and Compliance",
-    "Appendix/Technologies/Networking and Content Delivery/Services",
-    "Appendix/Technologies/Migration and Transfer/Services",
-    "Appendix/Technologies/Media/Services",
-    "Appendix/Technologies/Management and Governance/Services",
+    "Q. Cloud Academy Notes/Q.1 Compute/Q.1.01 Compute Introduction.md",
+    "Z. Appendix/Technologies/Networking and Content Delivery/Services/Elastic Load Balancing (ELB).md",
+    "Q. Cloud Academy Notes/Q.1 Compute/Q.1.01 Compute Introduction",
+    "Q. Cloud Academy Notes/Q.1 Compute",
+    "Q. Cloud Academy Notes",
+    "Z. Appendix/Concepts/Microservices and component delivery.md",
+    "Glossary.md",
+    "Z. Appendix/Appendix.md",
+    "Domain 4 - Design Cost-Optimized Architectures.md",
+    "Domain 3 - Design High-Performing Architectures.md",
+    "Domain 2 - Design Resilient Architectures.md",
+    "Domain 1 - Design Secure Architectures.md",
+    "Z. Appendix/Concepts/Disaster recovery.md",
+    "Z. Appendix/Technologies/Management and Governance/Management and Governance Services.md",
+    "Z. Appendix/Technologies/Storage/Services/Amazon Elastic Block Store (Amazon EBS).md",
+    "Z. Appendix/Technologies/Storage/Storage Services.md",
+    "Z. Appendix/Technologies/Storage/Services/Amazon S3.md",
+    "Z. Appendix/Technologies/Storage/Services/Amazon S3 Glacier.md",
+    "Z. Appendix/Technologies/Storage/Services/AWS Storage Gateway.md",
+    "Z. Appendix/Technologies/Storage/Services/Amazon FSx (for all types).md",
+    "Z. Appendix/Technologies/Storage/Services/Amazon Elastic File System (Amazon EFS).md",
+    "Z. Appendix/Technologies/Storage/Services/AWS Backup.md",
+    "Z. Appendix/Technologies/Serverless/Serverless Services.md",
+    "Z. Appendix/Technologies/Serverless/Services/AWS Fargate.md",
+    "Z. Appendix/Technologies/Serverless/Services/AWS Lambda.md",
+    "Z. Appendix/Technologies/Storage/Services",
+    "Z. Appendix/Technologies/Serverless/Services",
+    "Z. Appendix/Technologies/Security, Identity, and Compliance/Services",
+    "Z. Appendix/Technologies/Storage",
+    "Z. Appendix/Technologies/Serverless",
+    "Z. Appendix/Technologies/Security, Identity, and Compliance",
+    "Z. Appendix/Technologies/Networking and Content Delivery/Services",
     "Untitled.canvas"
   ]
 }

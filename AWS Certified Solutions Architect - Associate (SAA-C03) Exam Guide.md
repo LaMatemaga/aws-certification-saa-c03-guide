@@ -1,5 +1,10 @@
+---
+group:
+  - guide
+---
+
 # Introduction 
-The **AWS Certified Solutions Architect - Associate (SAA-C03) exam** is intended for 
+The **AWS Certified Solutions Architect - Associate (SAA-C03)** exam is intended for 
 individuals who perform a solutions architect role. The exam validates a candidate’s 
 ability to design solutions based on the AWS Well-Architected Framework.
 
@@ -45,6 +50,7 @@ The exam has the following content domains and weightings:
 - **Domain 4:** Design Cost-Optimized Architectures *(20% of scored content)*
 
 ## **Domain 1: Design Secure Architectures**
+[[Domain 1 - Design Secure Architectures]]
 
 >[!Abstract] Task Statement 1.1:
 >Design secure access to AWS resources.
@@ -101,6 +107,7 @@ The exam has the following content domains and weightings:
 
 
 ## **Domain 2: Design Resilient Architectures**
+[[Domain 2 - Design Resilient Architectures]]
 
 >[!Abstract] Task Statement 2.1:
 >Design scalable and loosely coupled architectures. 
@@ -161,6 +168,7 @@ The exam has the following content domains and weightings:
 
 
 ## **Domain 3: Design High-Performing Architectures**
+[[Domain 3 - Design High-Performing Architectures]]
 
 >[!Abstract] Task Statement 3.1:
 >Determine high-performing and/or scalable storage solutions.
@@ -249,6 +257,7 @@ The exam has the following content domains and weightings:
 
 
 ## **Domain 4: Design Cost-Optimized Architectures**
+[[Domain 4 - Design Cost-Optimized Architectures]]
 
 >[!Abstract] Task Statement 4.1:
 >Design cost-optimized storage solutions.
