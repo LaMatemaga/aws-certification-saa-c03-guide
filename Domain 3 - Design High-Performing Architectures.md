@@ -2,7 +2,7 @@
 group:
   - guide
 ---
-# Relevant services
+## Relevant services
 - [[Amazon Elastic File System (Amazon EFS)]]
 - [[Amazon S3]]
 - [[Amazon EC2 Auto Scaling]]

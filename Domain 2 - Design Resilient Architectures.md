@@ -2,7 +2,7 @@
 group:
   - guide
 ---
-# Relevant services
+## Relevant services
 - [[Amazon VPC]]
 - [[Amazon Route 53]]
 - [[Amazon CloudFront]]

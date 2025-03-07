@@ -2,7 +2,9 @@
 group:
   - guide
 ---
-# Relevant services
+>[!todo] Notes
+>See notes here: [[Q.1.01 Compute Introduction]]
+## Relevant services
 - [[AWS Identity and Access Management (IAM)]]
 - [[Amazon Cognito]]
 - [[AWS Organizations]]
