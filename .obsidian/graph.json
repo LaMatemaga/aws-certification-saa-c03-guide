@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -11,14 +11,14 @@
       "query": "[\"group\":appendix]",
       "color": {
         "a": 1,
-        "rgb": 15269749
+        "rgb": 16187253
       }
     },
     {
       "query": "[\"group\":guide]",
       "color": {
         "a": 1,
-        "rgb": 5431401
+        "rgb": 16746496
       }
     },
     {
@@ -39,20 +39,41 @@
       "query": "[\"group\":notes]",
       "color": {
         "a": 1,
-        "rgb": 16777215
+        "rgb": 14935011
+      }
+    },
+    {
+      "query": "[\"got-correct\":FALSE]",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "[\"got-correct\":TRUE]",
+      "color": {
+        "a": 1,
+        "rgb": 2031360
+      }
+    },
+    {
+      "query": "[\"group\":flashcard]",
+      "color": {
+        "a": 1,
+        "rgb": 1949628
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.478125,
+  "lineSizeMultiplier": 0.993229166666667,
   "collapse-forces": false,
-  "centerStrength": 0,
-  "repelStrength": 11.1458333333333,
+  "centerStrength": 0.203125,
+  "repelStrength": 17.7083333333333,
   "linkStrength": 1,
-  "linkDistance": 99,
-  "scale": 0.09392927902847181,
+  "linkDistance": 500,
+  "scale": 0.059326171875000076,
   "close": true
 }

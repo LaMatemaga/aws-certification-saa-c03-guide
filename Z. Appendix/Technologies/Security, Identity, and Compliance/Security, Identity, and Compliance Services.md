@@ -3,23 +3,23 @@ group:
   - appendix
 ---
 
-[[AWS Artifact]]
-[[AWS Audit Manager]]
-[[AWS Certificate Manager (ACM)]]
-[[AWS CloudHSM]]
-[[Amazon Cognito]]
-[[Amazon Detective]]
-[[AWS Directory Service]]
-[[AWS Firewall Manager]]
-[[Amazon GuardDuty]]
-[[AWS IAM Identity Center (AWS Single Sign-On)]]
-[[AWS Identity and Access Management (IAM)]]
-[[Amazon Inspector]]
-[[AWS Key Management Service (AWS KMS)]]
-[[Amazon Macie]]
-[[AWS Network Firewall]]
-[[AWS Resource Access Manager (AWS RAM)]]
-[[AWS Secrets Manager]]
-[[AWS Security Hub]]
-[[AWS Shield]]
-[[AWS WAF]]
+- [[AWS Artifact]] - Your central resource for compliance-related information
+- [[AWS Audit Manager]] - Continuously audit your AWS usage for compliance with regulations
+- [[AWS Certificate Manager (ACM)]] - Provision, manage, and deploy SSL/TLS certificates
+- [[AWS CloudHSM]] - Hardware-based key storage for regulatory compliance
+- [[Amazon Cognito]] - Add user sign-up, sign-in, and access control to your applications
+- [[Amazon Detective]] - Analyze and identify the root cause of security findings
+- [[AWS Directory Service]] - Run Microsoft Active Directory as a managed service
+- [[AWS Firewall Manager]] - Centrally configure and manage firewall rules
+- [[Amazon GuardDuty]] - Threat detection service that monitors for malicious activity
+- [[AWS IAM Identity Center (AWS Single Sign-On)]] - Centrally manage single sign-on access
+- [[AWS Identity and Access Management (IAM)]] - Control access to AWS services and resources
+- [[Amazon Inspector]] - Automated vulnerability management service
+- [[AWS Key Management Service (AWS KMS)]] - Create and control encryption keys
+- [[Amazon Macie]] - Discover, classify, and protect sensitive data
+- [[AWS Network Firewall]] - Deploy network security across your VPCs
+- [[AWS Resource Access Manager (AWS RAM)]] - Share AWS resources with other accounts
+- [[AWS Secrets Manager]] - Rotate, manage, and retrieve secrets securely
+- [[AWS Security Hub]] - Comprehensive view of your security state in AWS
+- [[AWS Shield]] - Protection against DDoS attacks
+- [[AWS WAF]] - Filter malicious web traffic

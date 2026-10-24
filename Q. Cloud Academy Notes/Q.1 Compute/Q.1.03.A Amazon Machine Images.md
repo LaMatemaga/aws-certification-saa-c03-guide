@@ -2,12 +2,12 @@
 group:
   - notes
 ---
-I want to begin by introducing AMIs, Amazon Machine Images. AMIs are essentially templates of pre-configured EC2 instances which allow you to quickly launch a new EC2 instance based on the configuration defined within the AMI. This prevents you from needing to install an operating system or any other common applications that you might need to install on a number of other EC2 instances. 
+I want to begin by introducing [[Amazon Machine Image (AMI)]]. AMIs are essentially templates of pre-configured [[Amazon EC2]] instances which allow you to quickly launch a new EC2 instance based on the configuration defined within the AMI. This prevents you from needing to install an operating system or any other common applications that you might need to install on a number of other EC2 instances. 
 
 >[!abstract] Definition
 > From a high-level perspective, an **Amazon Machine Image (AMI)** is an image baseline that includes an operating system and applications, along with any additional custom configuration. 
 
-AWS provides a large number of AMIs covering different operating systems including:
+AWS provides a large number of AMIs covering different [[operating system]]s including:
 - Amazon Linux
 - macOS
 - Ubuntu

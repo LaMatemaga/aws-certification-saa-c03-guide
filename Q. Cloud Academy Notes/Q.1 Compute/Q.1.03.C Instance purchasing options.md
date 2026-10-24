@@ -2,7 +2,7 @@
 group:
   - notes
 ---
-AWS provides a number of different purchasing options for EC2 instances. These have been designed to help you optimize costs by allowing you to select the most appropriate option for your deployment. These options include:
+AWS provides a number of different purchasing options for [[Amazon EC2]] instances. These have been designed to help you optimize costs by allowing you to select the most appropriate option for your deployment. These options include:
 - [[Q.1.03.C.1 On-Demand Instances]],
 - [[Q.1.03.C.2 Spot Instances]],
 - [[Q.1.03.C.3 Reserved Instances]], and

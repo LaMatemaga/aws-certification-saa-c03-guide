@@ -8,4 +8,4 @@ group:
 - Tipically used for short-term workloads
 - Ideal for testing and development environments
 
-Once you stop or terminate your On-Demand Instance, you’ll stop paying for it.
+Once you stop or terminate your [[On-Demand Instance]], you’ll stop paying for it.

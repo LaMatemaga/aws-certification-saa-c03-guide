@@ -3,22 +3,22 @@ group:
   - appendix
 ---
 
-[[AWS Auto Scaling]]
-[[AWS CloudFormation]]
-[[AWS CloudTrail]]
-[[Amazon CloudWatch]]
-[[AWS Command Line Interface (AWS CLI)]]
-[[AWS Compute Optimizer]]
-[[AWS Config]]
-[[AWS Control Tower]]
-[[AWS Health Dashboard]]
-[[AWS License Manager]]
-[[Amazon Managed Grafana]]
-[[Amazon Managed Service for Prometheus]]
-[[AWS Management Console]]
-[[AWS Organizations]]
-[[AWS Proton]]
-[[AWS Service Catalog]]
-[[AWS Systems Manager]]
-[[AWS Trusted Advisor]]
-[[AWS Well-Architected Tool]]
+- [[AWS Auto Scaling]] - Automatically adjusts capacity to maintain performance at lowest cost
+- [[AWS CloudFormation]] - Model and provision AWS resources using Infrastructure as Code
+- [[AWS CloudTrail]] - Track user activity and API usage for security and compliance
+- [[Amazon CloudWatch]] - Monitoring and observability service for AWS resources and applications
+- [[AWS Command Line Interface (AWS CLI)]] - Unified tool to manage AWS services from the command line
+- [[AWS Compute Optimizer]] - Unified tool to manage AWS services from the command line
+- [[AWS Config]] - Track resource configurations and evaluate compliance
+- [[AWS Control Tower ]] - Set up and govern a secure, compliant multi-account environment]
+- [[AWS Health Dashboard]] - Personalized view of AWS service health and events affecting your resources
+- [[AWS License Manager]] - Manage software licenses across environments
+- [[Amazon Managed Grafana]] - Fully managed service for Grafana data visualization
+- [[Amazon Managed Service for Prometheus]] - Managed monitoring for container environments
+- [[AWS Management Console]] - Web interface for accessing and managing AWS services
+- [[AWS Organizations]] - Centrally manage and govern multiple AWS accounts
+- [[AWS Proton]] - Automated infrastructure provisioning for container and serverless applications
+- [[AWS Service Catalog]] - Create and manage catalogs of approved IT services
+- [[AWS Systems Manager]] - Operational hub for managing AWS resources
+- [[AWS Trusted Advisor]] - Real-time guidance to help follow AWS best practices
+- [[AWS Well-Architected Tool]] - Review workloads against architectural best practices

@@ -13,7 +13,7 @@ group:
 | Offers the largest discount                               | A discount is applied to all remaining hours during the term | The smallest discount is applied to the remaining hours in the term |
 | No further payment is required                            |                                                              |                                                                     |
 
-Once you’ve purchased a Reserved Instance, it’s yours for the entire one or three-year term and can’t be canceled. However, if your computing needs change during the course of your term, it may be possible to make changes to your Reserved Instance, or even exchange it for another one depending on which offering class you choose. Reserved Instances come in two offering classes, Standard and Convertible.
+Once you’ve purchased a [[Reserved Instance]], it’s yours for the entire one or three-year term and can’t be canceled. However, if your computing needs change during the course of your term, it may be possible to make changes to your Reserved Instance, or even exchange it for another one depending on which offering class you choose. Reserved Instances come in two offering classes, Standard and Convertible.
 
 | **Instance Types**                | **Discount** | **Can be modified?**                                                   | **Can be exchanged?**              | **Can be sold?** |
 | --------------------------------- | ------------ | ---------------------------------------------------------------------- | ---------------------------------- | ---------------- |
